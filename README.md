@@ -23,3 +23,14 @@ git checkout <archivo>   ->reinicia el archivo quitandolo en area de actuacion
 git reset HEAD --hard    ->reinicia la base de datos al commit anterior
 git checkout commit-number -> reinicia todo a un commit arbitrario
 		Este es muy util si deja de funcionar por cambios realizados.
+
+
+
+
+
+----git workflow----
+fork/branch
+commit
+pull request
+collaborate
+merge
