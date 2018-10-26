@@ -34,3 +34,11 @@ commit
 pull request
 collaborate
 merge
+
+
+git tag->anotar version
+git tag -a vx.x -m "version x.x"
+git tag vx.x-lw ->pone vx.x-lw de etiqueta
+
+para subir version con etiqueta
+git push origin <tag>
