@@ -46,3 +46,7 @@ git push origin <tag>
 
 git branch ramanueva
 git checkout ramanueva
+
+->desde master o rama que se quiere juntar
+git merge ramanueva
+git branch -d ramanueva ---->borrar rama nueva una vez que ya no es necesaria
